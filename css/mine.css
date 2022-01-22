@@ -4,7 +4,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .bgimg1 {
-    background-image: url('/img/img_parallax.jpg');
+    background-image: url("../img/img_parallax.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -42,7 +42,7 @@ h3 {
     font-weight: 150;
 }
 .bgimg2 {
-    background-image: url('/img/img_parallax2.jpg');
+    background-image: url("../img/img_parallax2.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -69,7 +69,7 @@ h3 {
     text-align: justify;
 }
 .bgimg3 {
-    background-image: url('/img/img_parallax3.jpg');
+    background-image: url("../img/img_parallax3.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
